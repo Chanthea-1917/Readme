@@ -73,5 +73,39 @@ cd school-management-system
 npm install
 ```
 
+## Screenshot
+
+![alt text](image.png)
+
+
+## Usage
+
+There are many variations of passages of Lorem Ipsum
+
+``` bash
+npm run dev
+```
+
+Latin words, combined with a handful of model
+
+```bash
+npm start
+```
+Application on desktop
+
+```bash
+http://localhost:3000/api
+```
+
+##API Endpoints
+
+|  **Method**  |  **Endpoint**  |  **Desciption**   |
+|--------------|----------------|-------------------|
+|POST          |/api/auth/login |Login to system    |
+|GET           |/api/students   |Login to system    |
+|POST          |/api/students   |Login to system    |
+|PUT           |/api/students:id|Login to system    |
+|DELETE        |/api/students:id|Login to system    |
+
 
 
