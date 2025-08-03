@@ -112,7 +112,7 @@ http://localhost:3000/api
 
  It uses a dictionary of over 200 Latin words, combined with a handful of model
 
- ```bash
+```env
 PORT=3000
 DB_URI=your_database_connection_string
 JWT_SECRET=your_jwt_secret_key
@@ -135,8 +135,7 @@ npm test        # Run test cases
 
 ## Licence
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-
-```bash
+```yaml
 ---
 
 Let me know:
